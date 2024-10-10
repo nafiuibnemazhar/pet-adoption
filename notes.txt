@@ -1,0 +1,1 @@
+lecture completed == 6. CSS Grid (Multiple Columns);
