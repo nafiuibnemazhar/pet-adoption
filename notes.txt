@@ -1,1 +1,1 @@
-lecture completed == 4. Finishing The Pet Card -- section 3;
+lecture completed == 6. Finishing Mobile Styles -- section 3;
