@@ -1,1 +1,1 @@
-lecture completed == 6. Finishing Mobile Styles -- section 3;
+lecture completed == 3. Fetching Data -- section 5;
