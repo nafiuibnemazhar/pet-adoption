@@ -1,1 +1,1 @@
-lecture completed == 4. Finishing Temperature Feature -- section 5;
+lecture completed == 1. Fetching Dynamic Pet Data -- section 6;
