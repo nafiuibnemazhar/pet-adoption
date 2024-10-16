@@ -1,1 +1,1 @@
-lecture completed == 2. Dynamic Pet Cards -- section 6;
+lecture completed == 3. Pet Description & Age -- section 6;
