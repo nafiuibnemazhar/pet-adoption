@@ -1,1 +1,1 @@
-lecture completed == 3. Pet Description & Age -- section 6;
+lecture completed == 4. Pet Fallback Imagee -- section 6;
