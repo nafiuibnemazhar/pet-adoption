@@ -1,1 +1,1 @@
-lecture completed == 3. Fetching Data -- section 5;
+lecture completed == 5. Species Filter Active Button -- section 6;
